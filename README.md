@@ -1,11 +1,15 @@
 Multi-Format Intake Agent with Intelligent Routing & Context Memory
+
+
 Objective
 Build a multi-agent AI system that can:
+
 ✅ Accept PDF, JSON, or Email (text) files
 ✅ Classify input type and purpose
 ✅ Route to specialized extraction agents
 ✅ Maintain context (sender, topic, extracted fields) in a shared memory
 ✅ Support downstream chaining or audits
+
 Project Structure
 ```
 /agents/         - Classifier, JSON, Email agents
@@ -60,7 +64,7 @@ The shared memory module stores:
 - Conversation or thread ID
 - Timestamps
 
-Uses either SQLite (default) or Redis.
+Uses either SQLite (default) or Redis.    
 Demo Video
 A short video demo can be found at: [insert link here]
 Sample Inputs & Outputs

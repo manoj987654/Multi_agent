@@ -23,8 +23,8 @@ Setup
 1️⃣ Clone the repo:
 
 ```bash
-git clone https://github.com/<your-username>/<repo-name>.git
-cd <repo-name>
+git clone https://github.com/manoj987654/Multi_agent.git
+cd Multi_agent
 ```
 
 2️⃣ Install dependencies:
@@ -42,13 +42,13 @@ Sample Usage
 ### Upload a `.txt` file:
 
 ```bash
-curl -X POST -F "file=@data/samples/sample_email.txt" http://localhost:8000/upload
+curl -X POST -F "file=@C:/Users/venkey/Desktop/agent/data/samples/sample_email.txt" http://localhost:8000/process
 ```
 
 ### Upload a `.json` file:
 
 ```bash
-curl -X POST -F "file=@data/samples/sample_invoice.json" http://localhost:8000/upload
+curl -X POST -F "file=@data/samples/sample.json" http://localhost:8000/process?conversation_id=conv_123
 ```
 Features
 ✅ Classifies input type (PDF, JSON, Email)

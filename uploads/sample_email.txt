@@ -1,0 +1,13 @@
+From: jane@supplier.com
+Subject: Invoice #INV-2023-789
+
+Dear Accounts Team,
+Please find attached invoice for:
+- 50x Widget A @ $10.00
+- 25x Gadget B @ $15.00
+
+Total: $875.00
+Due Date: 2023-12-15
+
+Regards,
+Jane Doe

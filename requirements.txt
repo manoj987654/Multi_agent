@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+langchain
+openai
+redis
+pydantic
+PyPDF2
+requests
+textblob
+
+

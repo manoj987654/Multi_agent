@@ -1,0 +1,16 @@
+{
+  "order_id": "PO-2023-001",
+  "customer": "Tech Solutions Inc",
+  "items": [
+    {
+      "product": "Laptop",
+      "quantity": 5,
+      "price": 1200
+    },
+    {
+      "product": "Monitor",
+      "quantity": 5,
+      "price": 300
+    }
+  ]
+}

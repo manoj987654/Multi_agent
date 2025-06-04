@@ -66,7 +66,7 @@ The shared memory module stores:
 
 Uses either SQLite (default) or Redis.    
 Demo Video
-A short video demo can be found at: [insert link here]
+A short video demo can be found at: https://drive.google.com/file/d/1J4LXpu-LJ1hi3WNMV1udPIxAto1uRVgL/view?usp=drive_link
 Sample Inputs & Outputs
 - `data/samples/` – Contains example email, JSON, and PDF files
 - `data/output_logs/` – Logs and screenshots of extracted outputs
